@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="10" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="13">
+ <tileset firstgid="1" name="tilemap practice" tilewidth="16" tileheight="16" tilecount="220" columns="20">
+  <image source="tilemap practice.png" width="320" height="180"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+4,5,5,5,5,5,5,5,5,7,
+24,25,107,25,26,25,26,107,26,27,
+21,1,127,1,1,1,1,127,1,27,
+41,1,1,1,1,1,1,1,1,27,
+1,1,1,1,2,3,1,1,1,27,
+1,1,1,1,22,23,1,1,1,27,
+104,1,1,1,1,1,1,1,1,27,
+24,1,1,1,1,1,1,1,1,27,
+24,1,1,1,1,1,1,1,1,27,
+64,66,66,104,1,1,102,66,66,67
+</data>
+ </layer>
+ <objectgroup id="2" name="collisions">
+  <object id="1" x="10.6195" y="9.68794" width="139.171" height="21.7979"/>
+  <object id="2" x="33.5352" y="29.0638" width="11.9236" height="16.5813"/>
+  <object id="5" x="114.392" y="29.4364" width="10.9921" height="16.0224"/>
+  <object id="6" x="0.372613" y="31.6721" width="14.9045" height="31.8584"/>
+  <object id="7" x="0.186306" y="96.3204" width="14.9045" height="63.5305"/>
+  <object id="8" x="15.0908" y="144.201" width="48.0671" height="15.8361"/>
+  <object id="10" x="96.3204" y="143.642" width="53.2837" height="16.5813"/>
+  <object id="11" x="144.388" y="31.2995" width="5.40289" height="115.51"/>
+  <object id="12" x="144.388" y="31.2995" width="5.40289" height="115.51"/>
+ </objectgroup>
+</map>

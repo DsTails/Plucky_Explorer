@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: a4332996f9565414bab2cfe4e3d1d8e2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - 'Missing texture asset: ../../../../SPRITE PRACTICE/Overworld Topdown.png'
+  - Could not find tile 3. Make sure the tilesets were successfully imported.
+  - Could not find tile 146. Make sure the tilesets were successfully imported.
+  - Could not find tile 147. Make sure the tilesets were successfully imported.
+  - Could not find tile 148. Make sure the tilesets were successfully imported.
+  - Could not find tile 295. Make sure the tilesets were successfully imported.
+  - Could not find tile 296. Make sure the tilesets were successfully imported.
+  - Could not find tile 145. Make sure the tilesets were successfully imported.
+  - Could not find tile 1. Make sure the tilesets were successfully imported.
+  - Could not find tile 109. Make sure the tilesets were successfully imported.
+  - Could not find tile 164. Make sure the tilesets were successfully imported.
+  - Could not find tile 165. Make sure the tilesets were successfully imported.
+  - Could not find tile 166. Make sure the tilesets were successfully imported.
+  - Could not find tile 313. Make sure the tilesets were successfully imported.
+  - Could not find tile 314. Make sure the tilesets were successfully imported.
+  - Could not find tile 163. Make sure the tilesets were successfully imported.
+  - Could not find tile 112. Make sure the tilesets were successfully imported.
+  - Could not find tile 127. Make sure the tilesets were successfully imported.
+  - Could not find tile 182. Make sure the tilesets were successfully imported.
+  - Could not find tile 183. Make sure the tilesets were successfully imported.
+  - Could not find tile 184. Make sure the tilesets were successfully imported.
+  - Could not find tile 181. Make sure the tilesets were successfully imported.
+  - Could not find tile 130. Make sure the tilesets were successfully imported.
+  - Could not find tile 91. Make sure the tilesets were successfully imported.
+  - Could not find tile 185. Make sure the tilesets were successfully imported.
+  - Could not find tile 201. Make sure the tilesets were successfully imported.
+  - Could not find tile 200. Make sure the tilesets were successfully imported.
+  - Could not find tile 202. Make sure the tilesets were successfully imported.
+  - Could not find tile 262. Make sure the tilesets were successfully imported.
+  - Could not find tile 261. Make sure the tilesets were successfully imported.
+  - Could not find tile 199. Make sure the tilesets were successfully imported.
+  - Could not find tile 186. Make sure the tilesets were successfully imported.
+  - Could not find tile 94. Make sure the tilesets were successfully imported.
+  - Could not find tile 110. Make sure the tilesets were successfully imported.
+  - Could not find tile 4. Make sure the tilesets were successfully imported.
+  - Could not find tile 111. Make sure the tilesets were successfully imported.
+  - Could not find tile 128. Make sure the tilesets were successfully imported.
+  - Could not find tile 129. Make sure the tilesets were successfully imported.
+  - Could not find tile 92. Make sure the tilesets were successfully imported.
+  - Could not find tile 93. Make sure the tilesets were successfully imported.
+  - Could not find tile 260. Make sure the tilesets were successfully imported.
+  - Could not find tile 311. Make sure the tilesets were successfully imported.
+  - Could not find tile 312. Make sure the tilesets were successfully imported.
+  - Could not find tile 259. Make sure the tilesets were successfully imported.
+  - Could not find tile 204. Make sure the tilesets were successfully imported.
+  - Could not find tile 59. Make sure the tilesets were successfully imported.
+  - Could not find tile 60. Make sure the tilesets were successfully imported.
+  - Could not find tile 203. Make sure the tilesets were successfully imported.
+  - Could not find tile 77. Make sure the tilesets were successfully imported.
+  - Could not find tile 275. Make sure the tilesets were successfully imported.
+  - Could not find tile 240. Make sure the tilesets were successfully imported.
+  - Could not find tile 239. Make sure the tilesets were successfully imported.
+  - Could not find tile 276. Make sure the tilesets were successfully imported.
+  - Could not find tile 222. Make sure the tilesets were successfully imported.
+  - Could not find tile 113. Make sure the tilesets were successfully imported.
+  - Could not find tile 293. Make sure the tilesets were successfully imported.
+  - Could not find tile 294. Make sure the tilesets were successfully imported.
+  - Could not find tile 277. Make sure the tilesets were successfully imported.
+  - Could not find tile 95. Make sure the tilesets were successfully imported.
+  - Could not find tile 278. Make sure the tilesets were successfully imported.
+  warnings:
+  - Tileset 'Overworld Topdown' is an embedded tileset. Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 24
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 3
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}
